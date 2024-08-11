@@ -2,6 +2,7 @@
     "explorer.sortOrder": "modified",
     "explorer.sortOrderLexicographicOptions": "default",
     "files.associations": {
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "iostream": "cpp"
     }
 }
