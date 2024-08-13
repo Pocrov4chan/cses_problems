@@ -1,5 +1,5 @@
 {
-    "explorer.sortOrder": "modified",
+    "explorer.sortOrder": "default",
     "explorer.sortOrderLexicographicOptions": "default",
     "files.associations": {
         "iosfwd": "cpp",
